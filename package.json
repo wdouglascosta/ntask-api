@@ -1,0 +1,19 @@
+{
+  "name": "ntask-api",
+  "version": "1.0.0",
+  "description": "API to manage tasks",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "author": "WDouglasCosta",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "consign": "^0.1.6",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
